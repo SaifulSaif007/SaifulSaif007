@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on open source projects ...
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SaifulSaif007&icon=6&color=9)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=SaifulSaif007&label=PROFILE+VIEWS&color=blueviolet&style=flat)
 
 ## 🌐Socials

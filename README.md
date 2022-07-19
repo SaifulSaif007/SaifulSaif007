@@ -7,7 +7,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaifulSaif007&icon=6&color=9)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=SaifulSaif007&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=SaifulSaif007&label=PROFILE+VIEWS&color=blueviolet&style=flat)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-islam07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SiFuLSiF1) 

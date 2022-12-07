@@ -18,4 +18,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaifulSaif007&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulSaif007&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
- <img src="https://activity-graph.herokuapp.com/graph?username=SaifulSaif007&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SaifulSaif007&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

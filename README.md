@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 
 
-- 🔭 Passionate about mobile application development ...
-- 🌱 Experienced with Android app development with Kotlin, Java ...
-- 👯 I’m looking to collaborate on open source projects ...
+- 🔭 Passionate about mobile application development
+- 🌱 Experienced with Android app development with Kotlin, Java
+- 👯 I’m looking to collaborate on open source projects
 
 ---
 ![](https://komarev.com/ghpvc/?username=SaifulSaif007&label=PROFILE+VIEWS&color=blueviolet&style=flat)

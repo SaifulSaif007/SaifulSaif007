@@ -1,21 +1,40 @@
-<h1 align="center">Hi 👋, I'm Saiful</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saiful
+==============================================================================================================================
+
+Software Engineer
+-----------------
+
+Started my career as a software engineer back in 2019. Working as Android developer, also some knowledge in backend & web frontend as well
+
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🧠  I'm learning Jetpack compose
+* 🤝  I'm open to collaborating on any android projects & library
+
+<a href="https://www.github.com/SaifulSaif007" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SaifulSaif007?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+
+### Skills
 
 
-- 🔭 Passionate about mobile application development
-- 🌱 Experienced with Android app development with Kotlin, Java
-- 👯 I’m looking to collaborate on open source projects
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
----
-![](https://komarev.com/ghpvc/?username=SaifulSaif007&label=PROFILE+VIEWS&color=blueviolet&style=flat)
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-islam07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SiFuLSiF1) 
+### Socials
 
-# 💻Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=SaifulSaif007&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaifulSaif007&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulSaif007&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <a href="https://www.github.com/SaifulSaif007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saiful-islam07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/8401175/saiful-saif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SiFuLSiF1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SaifulSaif007&theme=react-dark&hide_border=true)](https://github.com/SaifulSaif007/github-readme-activity-graph)
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SaifulSaif007"><img src="https://github-readme-stats.vercel.app/api?username=SaifulSaif007&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="SaifulSaif007's GitHub stats" /></a>
+
+<a href="http://www.github.com/SaifulSaif007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifulSaif007&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/SaifulSaif007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulSaif007&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/SaifulSaif007/TMDB_Movies_And_Series" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaifulSaif007&repo=TMDB_Movies_And_Series&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/SaifulSaif007/UnsplashImageSearchApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaifulSaif007&repo=UnsplashImageSearchApp&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

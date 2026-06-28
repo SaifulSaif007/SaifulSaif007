@@ -25,15 +25,19 @@ src="https://img.shields.io/github/followers/SaifulSaif007?logo=github&style=for
 
 <p align="left"> <a href="https://www.github.com/SaifulSaif007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saiful-islam07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/8401175/saiful-saif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SiFuLSiF1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/SaifulSaif007"><img src="https://github-readme-stats.vercel.app/api?username=SaifulSaif007&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="SaifulSaif007's GitHub stats" /></a>
+<a href="https://github.com/saiful">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifulSaif007&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulSaif007&layout=compact&theme=github_dark&langs_count=8" />
+</a>
 
-<a href="http://www.github.com/SaifulSaif007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifulSaif007&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Contribution Streak
+<a href="https://github.com/SaifulSaif007">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaifulSaif007&theme=github-dark&hide_border=true" />
+</a>
 
-<a href="https://github.com/SaifulSaif007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulSaif007&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
